@@ -12,8 +12,13 @@ public class CreateOrg {
 		System.out.println("Manager-updated organization");
 		System.out.println("Dev1-update orgganization");
 		System.out.println("Manager-updated org");
+		
+
+	}
+	
+	@Test
+	public void updateOrg() {
 		System.out.println("Dev1-update2 orgnization");
 		System.out.println("Manager-updated organization");
-
 	}
 }
